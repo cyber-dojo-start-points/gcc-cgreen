@@ -1,19 +1,20 @@
 {
-  "image_name": "cyberdojofoundation/gcc_cgreen",
+  "image_name": "cyberdojofoundation/gcc_cgreen:07650f6",
   "display_name": "C (gcc), Cgreen",
-  "visible_filenames":
-  [
+  "visible_filenames": [
     "hiker.c",
     "hiker.h",
     "hiker_tests.c",
     "Makefile",
     "cyber-dojo.sh"
   ],
-  "filename_extension": [ ".c", ".h" ],
+  "filename_extension": [
+    ".c",
+    ".h"
+  ],
   "max_seconds": 10,
   "tab_size": 4,
-  "progress_regexs" :
-  [
+  "progress_regexs": [
     "((\\d)+ tests)",
     "(\\d)+ failures[s]?, (\\d)+ exception[s]?"
   ]
