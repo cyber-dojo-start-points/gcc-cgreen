@@ -1,5 +1,5 @@
 {
-  "image_name": "cyberdojofoundation/gcc_cgreen:07650f6",
+  "image_name": "cyberdojofoundation/gcc_cgreen:cb5e189",
   "display_name": "C (gcc), Cgreen",
   "visible_filenames": [
     "hiker.c",
