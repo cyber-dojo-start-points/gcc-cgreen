@@ -1,6 +1,6 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/gcc_cgreen:6581efd",
-  "display_name": "C (gcc 14.3.0), Cgreen 1.6.3",
+  "image_name": "ghcr.io/cyber-dojo-languages/gcc_cgreen:57192c4",
+  "display_name": "C (gcc 15.2.0), Cgreen 1.6.3",
   "visible_filenames": [
     "hiker.c",
     "hiker.h",
