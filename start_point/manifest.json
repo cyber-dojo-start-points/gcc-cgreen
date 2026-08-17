@@ -1,5 +1,5 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/gcc_cgreen:36215e5",
+  "image_name": "ghcr.io/cyber-dojo-languages/gcc_cgreen:665e673",
   "display_name": "C (gcc 15.2.0), Cgreen 1.6.3",
   "language": [
     "C (gcc)",
