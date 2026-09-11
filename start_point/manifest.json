@@ -24,7 +24,7 @@
   "max_seconds": 10,
   "tab_size": 4,
   "progress_regexs": [
-    "((\\d)+ tests)",
-    "(\\d)+ failures[s]?, (\\d)+ exception[s]?"
+    "Completed .*: \\d+ failures? in \\d+ms",
+    "Completed .*: \\d+ pass(es)? in \\d+ms"
   ]
 }
