@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 20,
+  "match_counts": {
+    "^Completed \"hiker_tests\": 1 pass in [0-9]+ms\\.$": 1,
+    "^cc  -fPIC -c -o checksum\\.o": 0,
+    "Failure:": 0,
+    "Exception:": 0
+  }
+}

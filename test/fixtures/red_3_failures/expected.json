@@ -1,0 +1,9 @@
+{
+  "matches": [ "^hiker_tests\\.c:[0-9]+: Failure: hiker -> answers_three_digits" ],
+  "match_counts": {
+    "^Running \"hiker_tests\" \\(3 tests\\)\\.\\.\\.$": 1,
+    "^hiker_tests\\.c:[0-9]+: Failure: hiker -> ": 3,
+    "^Completed \"hiker_tests\": 3 failures in [0-9]+ms\\.$": 1,
+    "pass": 0
+  }
+}

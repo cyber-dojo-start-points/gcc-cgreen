@@ -1,0 +1,8 @@
+{
+  "matches": [ "^answer_size_tests\\.c:[0-9]+:[0-9]+: error: " ],
+  "match_counts": {
+    "^In file included from hiker_tests\\.c:[0-9]+:$": 1,
+    "^Completed ": 0,
+    "^Running \"hiker_tests\"": 0
+  }
+}

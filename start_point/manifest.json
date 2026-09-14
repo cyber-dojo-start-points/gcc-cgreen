@@ -1,13 +1,13 @@
 {
   "image_name": "ghcr.io/cyber-dojo-languages/gcc_cgreen:665e673",
-  "display_name": "C (gcc 15.2.0), Cgreen 1.6.3",
+  "display_name": "C (gcc 15.2), Cgreen 1.7",
   "language": [
     "C (gcc)",
-    "15.2.0"
+    "15.2"
   ],
   "test_framework": [
     "Cgreen",
-    "1.6.3"
+    "1.7"
   ],
   "visible_filenames": [
     "hiker.c",
@@ -24,7 +24,7 @@
   "max_seconds": 10,
   "tab_size": 4,
   "progress_regexs": [
-    "Completed .*: \\d+ failures? in \\d+ms",
+    "Completed .*: .*\\d+ (failures?|exceptions?)",
     "Completed .*: \\d+ pass(es)? in \\d+ms"
   ]
 }
