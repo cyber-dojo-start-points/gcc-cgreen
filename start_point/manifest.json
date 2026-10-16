@@ -1,13 +1,13 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/gcc_cgreen:665e673",
-  "display_name": "C (gcc 15.2), Cgreen 1.7",
+  "image_name": "ghcr.io/cyber-dojo-languages/gcc_cgreen:2d3b32f@sha256:27e39c76a03f704592c0174d199f99ced3ee89160d013326321e7352b83804da",
+  "display_name": "C (gcc 16.2.0), Cgreen 1.7.0",
   "language": [
     "C (gcc)",
-    "15.2"
+    "16.2.0"
   ],
   "test_framework": [
     "Cgreen",
-    "1.7"
+    "1.7.0"
   ],
   "visible_filenames": [
     "hiker.c",
